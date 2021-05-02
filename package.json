@@ -1,0 +1,14 @@
+{
+  "name": "15-portfolio-website",
+  "version": "1.0.0",
+  "description": "Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch scss:dist/css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.32.11"
+  }
+}

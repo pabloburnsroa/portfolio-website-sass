@@ -34,6 +34,7 @@ img {
 // Logo
 #logo {
   text-align: center;
+  justify-content: center;
   display: flex;
   box-sizing: border-box;
   padding: 20px 0;
@@ -386,3 +387,6 @@ img {
     }
   }
 }
+
+// Import media queries
+@import 'media';
